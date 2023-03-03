@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RandomBubbles/看 Normal People/"}
+{"dg-publish":true,"permalink":"/RandomBubbles/看 Normal People/","noteIcon":""}
 ---
 
 我已经对爱情免疫，只是这个故事关乎成长。
