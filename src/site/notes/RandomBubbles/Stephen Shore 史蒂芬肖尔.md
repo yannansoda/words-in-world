@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RandomBubbles/Stephen Shore 史蒂芬肖尔/"}
+{"dg-publish":true,"permalink":"/RandomBubbles/Stephen Shore 史蒂芬肖尔/","noteIcon":""}
 ---
 
 - 代表作：《不寻常之地》
