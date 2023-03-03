@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Thoughts/"}
+{"dg-publish":true,"permalink":"/Thoughts/","noteIcon":""}
 ---
 
 - [[RandomBubbles/Digitial Garden\|Digitial Garden]]
