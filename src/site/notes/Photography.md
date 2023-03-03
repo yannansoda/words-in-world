@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Photography/"}
+{"dg-publish":true,"permalink":"/Photography/","noteIcon":""}
 ---
 
 - [[RandomBubbles/Petaphysics 荒诞玄学\|Petaphysics 荒诞玄学]]
