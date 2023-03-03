@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Words in World/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/Words in World/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 
