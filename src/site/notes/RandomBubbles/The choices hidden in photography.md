@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RandomBubbles/The choices hidden in photography/"}
+{"dg-publish":true,"permalink":"/RandomBubbles/The choices hidden in photography/","noteIcon":""}
 ---
 
 
