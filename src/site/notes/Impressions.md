@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Impressions/"}
+{"dg-publish":true,"permalink":"/Impressions/","noteIcon":""}
 ---
 
 - [[RandomBubbles/关于《我的抗战》\|关于《我的抗战》]]
