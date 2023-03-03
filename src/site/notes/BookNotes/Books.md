@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/book-notes/books/"}
+{"dg-publish":true,"permalink":"/BookNotes/Books/"}
 ---
 
 | File                                                    | Author                  | Publisher    | FinishDate | Format            |
