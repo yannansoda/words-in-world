@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RandomBubbles/Digitial Garden/"}
+{"dg-publish":true,"permalink":"/RandomBubbles/Digitial Garden/","noteIcon":""}
 ---
 
 - Android that grows up in a digital garden
