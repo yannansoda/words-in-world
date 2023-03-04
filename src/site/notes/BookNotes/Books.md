@@ -8,7 +8,7 @@
 | [[BookNotes/暮色将尽\|暮色将尽]]                             | 英 戴安娜·阿西尔               | 四川人民出版社      | 2023-02-03 | paperback         |
 | [[BookNotes/西班牙旅行笔记\|西班牙旅行笔记]]                       | 林达                      | 生活·读书·新知三联书店 | 2023-01-15 | kindle            |
 | [[BookNotes/漫长的余生\|漫长的余生]]                           | 罗新                      | 北京日报出版社      | 2022-12-02 | kindle            |
-| [[BookNotes/Models of the Mind\|Models of the Mind]] | Grace Lindsay           | \-           | 2022-11-06 | paper             |
+| [[BookNotes/Models of the Mind\|Models of the Mind]] | Grace Lindsay           | \-           | 2022-11-06 | paperback         |
 | [[BookNotes/二手世界\|二手世界]]                             | 美亚当·明特Adam Minter       | 社会科学文献出版社    | 2022-10-23 | kindle            |
 | [[BookNotes/鹿川有许多粪\|鹿川有许多粪]]                         | 李沧东                     | 武汉大学出版社      | 2022-10-15 | kindle            |
 | [[BookNotes/看\|看]]                                   | 英 约翰·伯格                 | 广西师范大学出版社    | 2022-09-20 | kindle            |
