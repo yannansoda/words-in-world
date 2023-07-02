@@ -7,4 +7,3 @@
 - [[RandomBubbles/The choices hidden in photography\|The choices hidden in photography]]
 - [[RandomBubbles/关于摄影\|关于摄影]]
 - [[RandomBubbles/布列松\|布列松]]
-- [[RandomBubbles/精读《解码好照片》\|精读《解码好照片》]]
