@@ -3,7 +3,7 @@
 ---
 
 [status:: `=choice(this.EndDate=none,"ToRead/Reading","Done")`]
-[format:: kindle]
+[format:: eBook]
 
 >[!tip] Back to my [[BookNotes/Books\|BookList]]
 
