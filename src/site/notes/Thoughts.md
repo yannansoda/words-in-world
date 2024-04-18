@@ -18,3 +18,5 @@
 - [[RandomBubbles/窃听者\|窃听者]]
 - [[RandomBubbles/街景\|街景]]
 - [[RandomBubbles/阅读\|阅读]]
+
+{ .block-language-dataview}
