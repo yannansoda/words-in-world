@@ -10,3 +10,5 @@
 - [[RandomBubbles/读《不二》\|读《不二》]]
 - [[RandomBubbles/读《无知》\|读《无知》]]
 - [[RandomBubbles/读苏伟贞\|读苏伟贞]]
+
+{ .block-language-dataview}
