@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/BookNotes/Yellowface/","title":"Yellowface","noteIcon":""}
 ---
 
-[status:: `=choice(this.EndDate=none,"ToRead/Reading","Done")`]
+[status:: Done]
 [format:: kindle]
 
 >[!tip] Back to my [[BookNotes/Books\|BookList]]
