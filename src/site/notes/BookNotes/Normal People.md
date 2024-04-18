@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/BookNotes/Normal People/","title":"Normal People","noteIcon":""}
 ---
 
-[status:: `=choice(this.EndDate=none,"ToRead/Reading","Done")`]
+[status:: Done]
 [format:: kindle]
 
 >[!tip] Back to my [[BookNotes/Books\|BookList]]
