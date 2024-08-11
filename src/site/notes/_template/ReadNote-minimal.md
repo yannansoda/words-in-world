@@ -6,3 +6,7 @@
 [format:: kindle]
 
 >[!tip] Back to my [[BookNotes/Books\|BookList]]
+
+# Comments
+
+# Highlights
