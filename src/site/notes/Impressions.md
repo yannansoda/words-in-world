@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Impressions/","noteIcon":""}
 ---
 
+- [[RandomBubbles/2017老实记事\|2017老实记事]]
 - [[RandomBubbles/关于《我的抗战》\|关于《我的抗战》]]
 - [[RandomBubbles/关于音乐\|关于音乐]]
 - [[RandomBubbles/忘不掉的福柯-回到福柯\|忘不掉的福柯-回到福柯]]
